@@ -1,0 +1,31 @@
+body{
+    background-color: #FEFBD8;
+    
+}
+#color{
+    background-color: #EECEB9;
+}
+#two{
+    background-color: #BB9AB1;
+}
+#three{
+    background-color: #CAE6B2 ;
+}
+#four{
+    background-color: #A0DEFF;
+}
+#five{
+    background-color: #CAF4FF;
+}
+#six{
+    background-color: #E0AED0;
+}
+#seven{
+    background-color: aquamarine;
+}
+h1{
+    text-align: center;
+}
+img{
+    align-items: center;
+}
